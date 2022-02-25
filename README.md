@@ -1,6 +1,6 @@
 # HackerRank_Challenge
 
-solve problems hackerRank Challenge from : 
+solve problems hackerRank Challenge from :
 'https://www.hackerrank.com/domains/python?filters%5Bskills%5D%5B%5D=Python%20%28Basic%29&filters%5Bdifficulty%5D%5B%5D=easy&badge_type=python'
 
 saved in challenge folder
@@ -12,4 +12,6 @@ saved in challenge folder
 * [X] arithmetics operators
 * [X] Division
 * [X] Loops
-* [ ] Write a function
+* [X] Write a function
+* [X] Print Function
+* [ ] Text Wrap
